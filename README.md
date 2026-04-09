@@ -16,6 +16,16 @@
 - **Mavlink 协议**：依赖 ELRS 物理链路，确保无人机飞控与中控之间消息与指令的高效传输。
 - **LTE/5G 网络**：支持在广域覆盖下实现远程控制、数据回传和智能调度。
 
+## 项目使用的其它开源资料
+
+### 达妙动力DM-MC02
+
+https://gitee.com/kit-miao/dm-mc02
+
+### ELFBoard RK3588板卡
+
+https://www.elfboard.com/information/detail.html?id=7
+
 ## 许可证 (License)
 
 本项目采用 [GNU 通用公共许可证 3.0](LICENSE)。
